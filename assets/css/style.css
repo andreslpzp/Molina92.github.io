@@ -8,9 +8,14 @@ body {
   background-image: url("../img/bg-hero-code.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: top;
-  font-weight: 900;  
+  background-position: top;  
 }
+
+/*Custom Text*/
+.custom-text {
+  font-style: italic;
+}
+
 
 /* Mis trabajos */
 
