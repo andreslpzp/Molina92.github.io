@@ -16,16 +16,6 @@ body {
   font-style: italic;
 }
 
-
-/* Mis trabajos */
-
-#Mis-trabajos .image-top {
-  height: 40rem;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: left;
-}
-
 /* Contacto */
 
 #Contacto form label {
